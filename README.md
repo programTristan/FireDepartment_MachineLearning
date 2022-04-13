@@ -2,10 +2,9 @@
 
 ## Project Overview
 - Observing thousands of observations from the years 2000-2016
-- Response variable is set to be False Alarms
-- Certain features will be selected to help predict future False Alarms
-- The objective is to increase the quality of life for residents, creat
-- The libraries used were pandas, numpy, matplotlib, seaborn and scipy.
+- Predict future False Alarms
+- Report which features can me monitored to reduce Fasle Alarms
+- The libraries used were pyspark and numpy
 - You can access the Jupiter Notebook at this **[LINK](https://github.com/programTristan/FireDepartment_MachineLearning/blob/main/code/TristanAppleby_SF_FireDepartmentAnalysis.ipynb)**
 
 ## Objectives
