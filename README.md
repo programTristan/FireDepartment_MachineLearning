@@ -1,21 +1,25 @@
-# Machine Learning - San Fransisco Fire Department Data
+# Machine Learning - SF Fire Department
 
 ## Project Overview
-- Observing thousands of observations from the years 2000-2016
-- Predict future False Alarms
-- Report which features can me monitored to reduce Fasle Alarms
+- Dataset with thousands of fire departnment calls from years 2000-2016
+- Prepare data and assemble features for ML models
+- Hypertune paramters to compare and select the most accurate model.
 - The libraries used were pyspark and numpy
 - You can access the Jupiter Notebook at this **[LINK](https://github.com/programTristan/FireDepartment_MachineLearning/blob/main/code/TristanAppleby_SF_FireDepartmentAnalysis.ipynb)**
 
-## Objectives
+## Objectives 
+Design an accurate machine learning model that can be used to predict future false alarms. This will help increase the efficiency of the fire department, detecting false alarms prior to expending resources. 
 
--Increase the quality of life for residents, 
--Create more efficient government services b
--Help make better public decisions
--Aid local businesses and services.
+## Data Cleaning and Preparation
 
 
-## Data cleaning and preparation
+
+## Machine Learning Models
+
+- Decision Tree
+- Random Forest 
+- Linear Regression 
+- Logistic Regression
 
 
 ##3 Code
