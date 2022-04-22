@@ -10,6 +10,9 @@
 ## Objectives 
 Design an accurate machine learning model that can be used to predict future false alarms. This will help increase the efficiency of the fire department, detecting false alarms prior to expending resources. 
 
+
+
+
 ## Data Cleaning and Preparation
 Data is accessed through a public repository on aws s3, uploaded by the government of San Fransisco.
 
