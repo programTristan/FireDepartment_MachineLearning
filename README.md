@@ -14,6 +14,7 @@ Design an accurate machine learning model that can be used to predict future fal
 
 
 
+
 ## Data Preperation
 Data is accessed through a public repository on aws s3, uploaded by the government of San Fransisco.
 
@@ -31,6 +32,8 @@ The s3 drive is mounted and tables 'Fire_Department_Call' and 'Fire_Incidents' a
 - Random Forest 
 - Linear Regression 
 - Logistic Regression
+
+[![](images/ML_Models.png)](https://github.com/programTristan/FireDepartment_MachineLearning/tree/main/code)
 
 You can access the Jupiter Notebook at this **[LINK](https://github.com/programTristan/FireDepartment_MachineLearning/blob/main/code/TristanAppleby_SF_FireDepartmentAnalysis.ipynb)**
 
