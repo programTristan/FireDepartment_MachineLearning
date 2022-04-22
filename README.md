@@ -1,7 +1,7 @@
-# Machine Learning - SF Fire Department
+# Machine Learning - SF Fire Department False Alarms
 
 ## Project Overview
-- Dataset with thousands of fire departnment calls from years 2000-2016
+- Dataset with millions of calls from years 2000-2016
 - Prepare data and assemble features for ML models
 - Hypertune paramters to compare and select the most accurate model.
 - The libraries used were pyspark and numpy
@@ -13,15 +13,19 @@ Design an accurate machine learning model that can be used to predict future fal
 
 
 
-## Data Cleaning and Preparation
+
+## Data Preperation
 Data is accessed through a public repository on aws s3, uploaded by the government of San Fransisco.
 
-The drive is then mounted and tables 'Fire_Department_Call' and 'Fire_Incidents' are extracted. From here, both tables are joined by 'IncidentNumber' creating a single dataframe object. Features are then selected and assembled through the pipeline.
+The s3 drive is mounted and tables 'Fire_Department_Call' and 'Fire_Incidents' are extracted. From here, both tables are joined by 'IncidentNumber' creating a single dataframe object. Features are then selected and assembled through the pipeline.
 
 [![](images/SF_LoadData.png)](https://github.com/programTristan/FireDepartment_MachineLearning/tree/main/code)
 
 
-## Machine Learning Models
+
+## Data Modeling
+
+4 Different Machine Learning models are constructed and evaluated
 
 - Decision Tree
 - Random Forest 
