@@ -12,6 +12,7 @@ Design an accurate machine learning model that can be used to predict future fal
 
 ## Data Cleaning and Preparation
 
+[![](images/Sales_CSV2019.png)](https://github.com/programTristan/GroceryStore_Sales_Analysis/tree/main/csv_files)
 
 
 ## Machine Learning Models
