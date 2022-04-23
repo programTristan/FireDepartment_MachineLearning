@@ -3,8 +3,8 @@
 ## Project Overview
 - Dataset with millions of calls from years 2000-2016
 - Prepare data and assemble features for ML models
-- Hypertune paramters to compare and select the most accurate model.
-- The libraries used were pyspark and numpy
+- Hypertune paramters to compare and select the most accurate model
+- Pyspark is the programming language used
 - You can access the Jupiter Notebook at this **[LINK](https://github.com/programTristan/FireDepartment_MachineLearning/blob/3074cd5e9874d3d91880d0dce3f740b6795917e1/code/SF_FireDepartment.ipynb)**
 
 ## Objectives 
