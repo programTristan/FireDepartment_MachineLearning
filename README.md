@@ -39,3 +39,4 @@ You can access the Jupiter Notebook at this **[LINK](https://github.com/programT
 
 
 ## Conclusions
+* The Elastic Net model is the best, and will be selected for future anaylsis.
