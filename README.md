@@ -1,7 +1,7 @@
 # Machine Learning - SF Fire Department False Alarms
 
 ## Project Overview
-- Dataset with millions of calls from years 2000-2016
+- Large dataset holding ro 4 million records, for emergency calls  from years 2000-2016
 - Prepare data and assemble features for ML models
 - Hypertune paramters to compare and select the most accurate model
 - Pyspark is the programming language used
